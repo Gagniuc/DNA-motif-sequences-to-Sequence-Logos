@@ -2,7 +2,7 @@
 Convert RNA/DNA motif sequences to Sequence Logo.
 
 # Live demo
-https://gagniuc.github.io/Self-sequence-alignment/
+https://gagniuc.github.io/DNA-motif-sequences-to-Sequence-Logos/
 
 # References
 
