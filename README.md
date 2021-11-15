@@ -1,4 +1,4 @@
-# Convert-DNA-motif-sequences-to-Sequence-Logo
+# Convert DNA/RNA motif sequences to Sequence Logos
 Convert RNA/DNA motif sequences to Sequence Logo.
 
 # Live demo
