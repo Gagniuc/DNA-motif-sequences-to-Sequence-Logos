@@ -8,7 +8,7 @@ https://gagniuc.github.io/DNA-motif-sequences-to-Sequence-Logos/
 
 # Screenshot
 
-![screenshot](https://github.com/Gagniuc/DNA-motif-sequences-to-Sequence-Logos/blob/main/Sequence%20Logos%20in%20JS.PNG)
+![screenshot](https://github.com/Gagniuc/DNA-motif-sequences-to-Sequence-Logos/blob/main/img/Sequence%20Logos%20in%20JS.png?raw=true)
 
 # References
 
